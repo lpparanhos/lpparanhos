@@ -1,11 +1,8 @@
 ## Olá! Eu sou o Leandro
 
-- 👨‍💻 Javascript front end development student (self-taught)
-- 💼 Civil Engineering Graduate
-
 <div align="left">
   <a href="https://github.com/lpparanhos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpparanhos&show_icons=false&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpparanhos&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
